@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="ques">Choose your gender?</string>
+    <string name="quest">You are good in?</string>
+    <string name="spin">Choose your country?</string>
+    <string name="country_prompt">Choose Country</string>
+    <string-array name="country_arrays">
+
+       <item>India</item>
+        <item>Malaysia</item>
+        <item>Indonesia</item>
+    </string-array>
+</resources>
